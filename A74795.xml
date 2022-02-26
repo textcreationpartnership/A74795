@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christs banner of love. Set up to call all Christians to serve in love and unity under it. But especially directed to the saints of both kingdoms. Walke in love, as Christ hath loved us.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74795</idno>
+            <idno type="STC">Thomason E437_32</idno>
+            <idno type="STC">ESTC R204743</idno>
+            <idno type="EEBO-CITATION">99864206</idno>
+            <idno type="PROQUEST">99864206</idno>
+            <idno type="VID">116429</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74795)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116429)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E437[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christs banner of love. Set up to call all Christians to serve in love and unity under it. But especially directed to the saints of both kingdoms. Walke in love, as Christ hath loved us.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Wright at the Kings Head in the Old Bayley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 2nd".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jesus Christ --  Example --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116429:1" rendition="simple:additions"/>
+            <p>Chriſts Banner of Love.</p>
+            <p>Set up to call all Chriſtians to ſerve in Love and Unity under it.</p>
+            <p>But eſpecially directed to the Saints of both Kingdoms.</p>
+            <q>Walke in Love, as Chriſt hath loved us.</q>
+            <figure>
+               <figDesc>publisher's devicr</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Wright</hi> at the Kings Head in the Old Bayley. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116429:2"/>
+            <pb n="1" facs="tcp:116429:2"/>
+            <head>Chriſts Banner of Love.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is never enough to be lamen<g ref="char:EOLhyphen"/>ted, That when Chriſt hath made Love, the very Character and Badge of his Diſciples, thoſe that would be called Chriſtians, that is, the Diſciples of Chriſt, are farre from that wherein this Di<g ref="char:EOLhyphen"/>ſcipleſhip doth eſpecially conſiſt. One Apoſtle ha<g ref="char:EOLhyphen"/>ving named ſome chiefe Graces and Vertues, ſaith; <hi>But the greateſt of theſe is love;</hi> And in another place, <hi>Above all theſe things put on love, which is the bond of perfectneſſe.</hi> And another Apoſtle; <hi>Above all things have fervent love among your ſelves.</hi> But how comes it to paſſe then, that when Chriſt and his Apoſtles ſet up love above all things, we ſee ſo many things ſet up above love, yea, we ſee love de<g ref="char:EOLhyphen"/>ſtroyed for little things, which is better than all things? Yea, when love by uniting would mu<g ref="char:EOLhyphen"/>tually preſerve the Saints, they by hatred and con<g ref="char:EOLhyphen"/>tention will deſtroy both love and themſelves; yet the ſame evill ſpirit that moves to this deſtroying by hatred and diviſion, preſerves his owne King<g ref="char:EOLhyphen"/>dome by unity. And though his depraved nature be contrary to true love, yet his craft ſo farre over-rules, or at leaſt guides his malice, that he holds
+<pb n="2" facs="tcp:116429:3"/>unity for our ruine, and his owne preſervation. But Chriſtians, whoſe Divine Nature is eſpecially made up of love, run haſtily and headily into hatred and diviſion; and thus doe they goe contrary to the Divine Nature, wherein is the vertue of the Dove, and the wiſdome commended in the Serpent. But doe not thoſe that talke of Chriſtianity, and thus walke contrary to it, meerely turne Chriſtianity into talking, and make themſelves but tinkling Cymballs?</p>
+            <p>Let true Chriſtians ſeriouſly conſider, that union in Chriſt their head, is a ſtronger root of love and unity than leſſer differences can be of diviſion. It was the great Plot of Chriſt by the expence of his moſt precious Bloud, to recapitulate and bring into unity under one Head thoſe that lay ſcattered under ſundry differences; and is it not then to counter-worke againſt Chriſts great Plot and Myſtery of Godlineſſe, by ſmall differences to divide thoſe whom he hath by ſo deare a purchaſe knit together; yet (which is a high degree of this miſchiefe) men pretend for Chriſtianity to hate and deſtroy Chriſti<g ref="char:EOLhyphen"/>ans; but is it not the ſame w<hi rend="sup">ch</hi> in others hath bin tru<g ref="char:EOLhyphen"/>ly called Antichriſtian; for both this and that perſe<g ref="char:EOLhyphen"/>cutes Chriſt in his members, oppoſeth Chriſt in his Doctrine, and in his maine work and diſpenſation; let ſuch heare <hi>Paul</hi> ſpeaking: <hi>Where there are diviſions among you are ye not carnall, and walke as men?</hi> And in<g ref="char:EOLhyphen"/>deed, is it not carnall to hate a member of Chriſt for that difference which he may have, and yet be a member of Chriſt? Is not he more to be loved for being a member of Chriſt then to be hated for that difference? yea, if Chriſt doe love and forgive him, how dar'ſt thou to hate him whom Chriſt loves? Haſt thou ſeen any warrant in Scripture to give thee authority to hate a member of Chriſt who agrees with Chriſt by faith and love, but agrees not with
+<pb n="3" facs="tcp:116429:3"/>thee in all thy opinions? The Scripture ſaith, <hi>We know but in part;</hi> and if ſo, thou muſt give every Saint theſe graines of allowance which the Apoſtle gives him. It may be the knowledge of that point where<g ref="char:EOLhyphen"/>in he differs from thee is not within his part, and thou wilt have him know beyond his part, or elſe thou wilt fall out with him; Is not this to fall, out with a Saint for impoſsibilities; and which is more, is it not to fight againſt God in his diſpenſations? God is not pleaſed to put this knowledge within his part, and therefore thou fall'ſt out with him; and is not thy quarrell againſt God alſo, becauſe God hath not revealed it unto him? yea, as confident as thou art, it may be that opinion for which thou fall'ſt out with him is not in thy part, but that which he holds is within his part; and then what a double madneſſe is it to hate thy brother, for not maintaining that opinion which thou holdeſt, but knoweſt not to be a truth, and for that truth which thy brother knowes, and therefore maintaines? But if of ignorance he erre in thoſe things that are out of his part, beare with him as thou wouldeſt be born with, yea loved, notwithſtanding that errour, for <hi>this is the Law and the Prophets.</hi> It is not to be beleeved, that any Saint willingly would maintaine a knowne errour, and if he hold it of weakneſſe, receive him that is weake, and not for contentions and dividing diſputations; beare with him in that which is beyond his part, and he ſhall beare with thee in that which is beyond thy part; for there is a great number of truths which ſome Saints know, and others doe not; yea many which none attaine unto. We have plaine places of Scripture wherein love to all Saints is commended and commanded, but none wherein hatred of Saints for leſſer meaſures of knowledge is injoyned or ap<g ref="char:EOLhyphen"/>proved.</p>
+            <p>Againe, the Body of Chriſt doth edifie it ſelfe in
+<pb n="4" facs="tcp:116429:4"/>love, therefore no love, no edification. But on the contrary, as love edifies, ſo hatred pulls downe, and teares the building into pieces. Now what ſaies the Scripture? <hi>Who ſo destroyes the Temple of God, him ſhall God deſtroy.</hi> A fearefull worke paid with fearefull wages, Temple deſtruction followed with deſtruction of Temple deſtroyers. Neither is this wholly deferred to the great day, but even in this life diviſion of Saints threatens deſtruction; for if ye bite on another, ye ſhall be conſumed one of another. When theſe leſ<g ref="char:EOLhyphen"/>ſer differences make a diviſion, the great Malignant puts in his wedge, and the leſſer follow and ſerve him in this worke, and both teare Saints aſunder to de<g ref="char:EOLhyphen"/>ſtroy them by dividing; yea to deſtroy one Saint by another. A ſad thing when Saints ſhall doe the De<g ref="char:EOLhyphen"/>vils works, dividing and deſtroying. But farre from Saints be the works and paths of the deſtroyer. But let them much rather doe the works of God, even of that God who is Love, and his work is Salvation. Let them ſtrive to preſerve each other by provoking one another to love and good workes, and by being knit and linkt together ſo faſt in love, that none of theſe infernall Wedges and Engines may teare them aſun<g ref="char:EOLhyphen"/>der. Let them walke in thoſe ſaving truths which they have attained to, with one minde, and one love; and if any thing beſides be not yet attained to, waite with mutuall patience and forbearance untill the ſame be revealed.</p>
+            <p>I know there are errours to whoſe owners and maintainers the Apoſtle allowes not, God ſpeed. But I ſpeake not of thoſe, but of ſuch differences and di<g ref="char:EOLhyphen"/>viſions as are of a lower nature. And is not the inter<g ref="char:EOLhyphen"/>nall unity of the Spirit a greater band of love and peace then difference in ſmall matters or externalls, be of hatred, diviſion, and mutuall deſtruction? Is not ſuch a deſtruction like unto this, that when two owners of a field of Corne cannot agree about the
+<pb n="5" facs="tcp:116429:4"/>faſhion of the hedge, upon this diſagreement they will both agree to ſet the Corne on fire and deſtroy it? What were this but to deſtroy the Corn for that very thing, whoſe maine, if not only uſe, is to preſerve it? Let Saints heare the voice and judgement of <hi>Moſes</hi> (a great Saint, and who in this voyce ſpake as one that was deſigned to be the great Judge of <hi>Iſrael</hi>) <hi>Why ſttive ye, ſince ye are brethren?</hi> Why teare ye the Bo<g ref="char:EOLhyphen"/>dy of Chriſt into pieces for the cloths of the body? <hi>Is not the body better then raiment?</hi> Chriſt hath ſhed his blood for his Saints, and his Spirit into the Saints, to purchaſe love, peace, and unity for them; doe not rob him of his purchaſe by diviſions, and tearing his body aſunder, leaſt he againe cry out from Heaven, <hi>Why doe you perſecute me? and why doe you teare me in peices in my members?</hi> Let us not prefer low quarrels and opini<g ref="char:EOLhyphen"/>ons before Chriſt dwelling and living in his mem<g ref="char:EOLhyphen"/>bers; what is this but to make Idols of them, and to make our ſelves like thoſe of <hi>Canaan, who ſacrificed their Sons and Daughtere to their Idols;</hi> and what followes? <hi>Thus was the Land defiled with innocent blood.</hi>
+            </p>
+            <p>But let every man ſadly and ſincerely examine the matter, both as a Chriſtian, and as a wiſe man: as a Chriſtian, let him aske his Soul, whether it can be the Spirit that hates and endeavours to deſtroy a man that hath the Spirit, certainly it is imposſible, that the Spirit ſhould hate the Spirit, or him that hath it. <hi>For the fruit of the Spirit is love, even love to all the brethren that are borne of the ſame Spirit.</hi> And if it be a work of the fleſh, what hath a ſpirituall man to doe with the fleſh but to kill it? and not for the fleſh to kill thoſe that have the Spirit. Secondly as a wiſe man, who would by ſuch deviſion and oppoſition of Brethren make a gap, and open a gate for the common enemy to come in and deſtroy both? wherefore (to con<g ref="char:EOLhyphen"/>clude) let not leſſer faults or exceptions which may ſtand with brother-hood, diſſolve brother hood;
+<pb n="6" facs="tcp:116429:5"/>much leſſe ſet Brethren to deſtroy one another. And if it were lawfull (as it is not in <hi>Abrahams</hi> judgement, who was the Father of the faithfull, and told his Nephew <hi>Lot, Let us not ſtrive, becauſe we are brethren</hi>) yet firſt of all, meanes ſhould be uſed for reconciliation and ſatisfaction; thus did the whole Congregation of <hi>Iſrael</hi> by Meſſengers ſent to the Tribes of <hi>Reuben, Gad,</hi> and halfe Tribe of <hi>Manaſſeth,</hi> when they were ſuſpected for ſetting up a new and forbidden kind of Worſhip. Laſtly, farre be it from Brethren upon doubtfull and diſputable differences, yea doubtfull breaches of Covenant, to breake that plaine and down-right part of the Covenant; <hi>That each one of us according to our place and intereſt ſhall endeavour, that theſe Kingdomes may remaine conjoyned in a firme peace and union to all poſterity.</hi> To breake a certaine and cleare part of the Covenant for uncertainties, is a moſt certaine ſinne ſurely; the breach of this peace and union is in it ſelfe a great Judgement upon the Kingdomes. But how great a judgement ſhall he deſerve, that by a breach of Oath is a cauſe of this Judgement? <hi>Come not into their ſecret, O my Soule, for curſed is their anger, and their wrath is cruell; divide them in Jacob, and ſcatter them in Iſrael; for they would divide Jacob, and by dividing ſcat<g ref="char:EOLhyphen"/>ter and deſtroy Iſrael,</hi> even our Jeruſalem, compacted and knit together in both Nations by Saintſhip and Covenant. But <hi>pray we for the union and peace of Jeruſalem;</hi> let us ſay (and endeavour what we ſay) <hi>peace be within thy walls, and proſperity in thy palaces.</hi> For my Brethren and companions ſake I will now ſay, <hi>Peace be within thee;</hi> and let all the Brethren and Companions agree in this, and ſay, Amen, Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
